@@ -71,7 +71,9 @@ I'm ... from ....<br><br>
 
 ---
 
-### 🤖 ML & DL
+---
+
+### 🤖 Machine Learning & Data Analysis
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -89,6 +91,10 @@ I'm ... from ....<br><br>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="streamlit logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlecolab.svg" height="40" alt="Google Colab" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=for-the-badge" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=Microsoft%20Excel&logoColor=white&style=for-the-badge" height="40" alt="Excel logo" />
 </div>
 
 ---
@@ -97,9 +103,11 @@ I'm ... from ....<br><br>
 
 - 🧩 **Data preprocessing** and **feature transformation**  
 - 🪄 Working with **pre-trained models** (transfer learning / fine-tuning)  
-- 📊 Visualization using **Matplotlib** and **Streamlit dashboards**  
-- 🔍 Building and evaluating ML models with **Scikit-learn**  
+- 📊 Visualization using **Matplotlib**, **Streamlit**, and **Power BI** *(Intermediate level)*  
+- 📈 Data analysis with **Excel** *(Intermediate level)*  
+- 🔍 Building and evaluating ML models using **Scikit-learn**  
 - ☁️ Experimentation in **Google Colab / Anaconda environments**
+
 
 ---
 
@@ -121,32 +129,57 @@ I'm ... from ....<br><br>
 
 ---
 
-### 📊 My Stats
+---
+
+### 🎓 Training, Project Supervision & Creative Design
+
+<p align="left">
+I have strong experience in designing and managing **training workshops, educational projects, and creative materials** — combining both organization and creativity.
+<br><br>
+🧾 My expertise includes:
+</p>
+
+- 🧠 Designing full **training packages (حقائب تدريبية)** aligned with learning outcomes and participant needs.  
+- 🎯 Supervising **talented students’ projects** and guiding them through planning and execution.  
+- 🧩 Creating **interactive learning materials, slides, and visual aids** to make content engaging.  
+- 🎨 Designing **posters, workshop visuals, and educational graphics** using professional design tools.  
+- 🪄 Integrating **AI & modern tools** (like Streamlit or automation platforms) to enhance workshop experiences.  
+- 💬 Managing teams and projects effectively with **ClickUp, Trello, Asana, Slack, and Discord**.  
+- 💡 Tools: *Canva, PowerPoint, ClickUp, Trello, Asana, Slack, Discord.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=Microsoft%20PowerPoint&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?logo=ClickUp&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?logo=Asana&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge" height="30" />
 </p>
 
 ---
-
-### 🎵 Recently Played on Spotify
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-</div>
-
 ---
 
-### ✍️ Latest Medium Articles
+### 🎮 AI Creative Design & Video Production
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3" />
-  </a>
-</div>
+<p align="left">
+I have a strong passion for **AI-powered design** — creating visuals, videos, and game concepts using advanced creative tools powered by artificial intelligence.
+<br><br>
+🎨 My creative capabilities include:
+</p>
+
+- 🧩 Designing **AI-assisted games, concept art, and interactive visuals**.  
+- 🎥 Producing **AI-generated videos** for workshops, storytelling, and social media.  
+- 🪄 Using **AI tools** like Canva, Invide, Ovable.dev, Leonardo.ai, Gemini, and Vidu to bring creative ideas to life.  
+- 🧠 Combining **design thinking** with AI for innovative and visually engaging educational projects.  
+- 🌟 Exploring **AI for animation, visual storytelling, and content creation**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Invide-0078D7?logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Ovable.dev-6E40C9?logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Leonardo.ai-111111?logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=Google&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Vidu.com-FF0050?logoColor=white&style=for-the-badge" height="30" />
+</p>
+

@@ -1,11 +1,11 @@
-<!-- 🟢 GIF في الأعلى -->
+<!-- 💫 GIF في الأعلى -->
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ---
 
-<!-- 🔗 روابط التواصل -->
+<!-- 🌐 روابط التواصل -->
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
@@ -71,19 +71,35 @@ I'm ... from ....<br><br>
 
 ---
 
-### 🤖 ML & DL Tools
+### 🤖 ML & DL
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white&style=for-the-badge" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="40" alt="streamlit logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlecolab.svg" height="40" alt="Google Colab" />
 </div>
+
+---
+
+### 🧠 Specialized Skills
+
+- 🧩 **Data preprocessing** and **feature transformation**  
+- 🪄 Working with **pre-trained models** (transfer learning / fine-tuning)  
+- 📊 Visualization using **Matplotlib** and **Streamlit dashboards**  
+- 🔍 Building and evaluating ML models with **Scikit-learn**  
+- ☁️ Experimentation in **Google Colab / Anaconda environments**
 
 ---
 

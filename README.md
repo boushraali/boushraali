@@ -36,10 +36,13 @@ I'm **Bushra AL-Shehri**, a **Computer Trainer** passionate about empowering lea
 ### 🌐 My Profiles
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/busharashehri/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo" />
 </div>
+
 
 ---
 

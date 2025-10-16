@@ -22,7 +22,7 @@
 
 I'm **Bushra AL-Shehri**, a **Computer Trainer** passionate about empowering learners through technology.  
 
-- 💻 I specialize in **computer training** and developing **interactive educational content**.  
+- 💻 specialize in **computer training** and developing **interactive educational content**.  
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and Data Analysis**.  
 - 🧠 Skilled in using **AI tools** to design creative and innovative solutions.  
 - 🎓 Experienced in **designing training packages (حقائب تدريبية)** that blend learning outcomes with engaging visual materials.  
